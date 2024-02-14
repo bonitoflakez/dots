@@ -1,0 +1,4 @@
+xset s off -dpms &
+flameshot &
+udiskie &
+exec i3
