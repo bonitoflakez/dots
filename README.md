@@ -1,4 +1,4 @@
-<center><i>Dotfiles</i></center>
+<div align="center"><i>Dotfiles</i></div>
 
 ---
 
