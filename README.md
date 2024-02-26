@@ -1,6 +1,10 @@
 <div align="center"><h3>Dots</h3></div>
 
-![[./showcase/pop_os_setup_showcase.png]]
+![Pop!OS Showcase](./showcase/pop_os_setup_showcase.png)
+
+> [!WARNING] 
+> This setup config is rushed. Some things might not work for you.
+
 First, install all these things
 Base Packages
 ```txt
